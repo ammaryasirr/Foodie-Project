@@ -1,0 +1,21 @@
+ <div class="review-content">
+                        <img class="review-img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSmRF6K5YNrpdNZvdcLH5hIUsMHoGEP8AJkw&s" alt="">
+                        <div class="review-text">
+                            <h2>Guy Hawkins</h2>
+                            <div class="star">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            </div> 
+                        </div>
+                        
+                        
+                    
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam esse accusantium, sed fugiat harum explicabo vitae illum quam amet facilis fugit molestiae sapiente, culpa quidem quas quo. Eaque, esse possimus?</p>
+                    <div class="review-arrow">
+                        <i class="fa-solid fa-arrow-left"></i>
+                        <i class="fa-solid fa-arrow-right"></i>
+
+                    </div> 
+                    </div>
